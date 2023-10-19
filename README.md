@@ -1,1 +1,2 @@
 # N-Queen-Problem
+This project implements the Hill Climbing search algorithm and its variants to solve the classic N-Queens problem. The N-Queens problem involves placing N chess queens on an N×N chessboard so that no two queens threaten each other. The Hill Climbing algorithm and its variants are used to intelligently explore the solution space and find a configuration where no queens attack each other.
